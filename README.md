@@ -12,6 +12,7 @@
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
+- projects cs50x ,cs50ai ,cs50p ,cs50 cyber security
 - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 ### 🌱 I’m learning
@@ -25,6 +26,7 @@
 ### 🤔 I’m looking for help with
 
 - Integrating AI models to web applications
+- Integrating AI models to software
 
 ### 📫 How to reach me
 
