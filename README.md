@@ -12,7 +12,7 @@
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- projects cs50x ,cs50ai ,cs50p ,cs50 cyber security
+- Projects cs50x ,cs50ai ,cs50p ,cs50 cyber security
 - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 ### 🌱 I’m learning
@@ -31,14 +31,13 @@
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="www.linkedin.com/in/alireza-salehnia-36733b255">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/CodeWithBernard">
+  <a href="https://twitter.com/Ali302939">
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+
   </a>
 </div>
 
