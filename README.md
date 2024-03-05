@@ -13,7 +13,8 @@
 
 - Projects for freelance clients.
 - Projects cs50x ,cs50ai ,cs50p ,cs50 cyber security
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Growing [Upbeat Code](https://pll.harvard.edu/) to 100k/month visitors.
+- 
 
 ### 🌱 I’m learning
 
