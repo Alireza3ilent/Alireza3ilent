@@ -14,7 +14,7 @@
 - Projects for freelance clients.
 - Projects cs50x ,cs50ai ,cs50p ,cs50 cyber security
 - Growing [Upbeat Code](https://pll.harvard.edu/) to 100k/month visitors.
-- 
+  
 
 ### 🌱 I’m learning
 
@@ -44,7 +44,7 @@
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+I'm definitely not a cat person.I love learning quirky trivia, but I can't truly have a serious person
 
 <!---
 Alireza3ilent/Alireza3ilent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
