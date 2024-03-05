@@ -44,7 +44,7 @@
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.I love learning quirky trivia, but I can't truly have a serious person
+I'm definitely love learning quirky trivia, but I can't truly have a serious person
 
 <!---
 Alireza3ilent/Alireza3ilent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
