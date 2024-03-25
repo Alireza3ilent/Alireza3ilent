@@ -38,7 +38,8 @@
   <a href="https://twitter.com/Ali302939">
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-
+   <a href="https://t.me/CODON07">
+      </a>
   </a>
 </div>
 
